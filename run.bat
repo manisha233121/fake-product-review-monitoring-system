@@ -1,2 +1,3 @@
 python Main.py
-pause
+
+play
